@@ -17,6 +17,8 @@ bash run_single.sh
 ```
 If everything goes well, the training code will start running and display the prediction precision at the end of each epoch!
 
-
-
+## Acknowledgment
+We would like to express sincere thanks to the authors of the following tools and packages:
+* [PyG](https://github.com/pyg-team/pytorch_geometric)
+* [GraphGym](https://github.com/snap-stanford/GraphGym)
 
