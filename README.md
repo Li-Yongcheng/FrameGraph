@@ -9,8 +9,8 @@ This repository contains the training code for the door frame example in the pap
 ## Have a try!
 * Download the environment [py39.7z](https://drive.google.com/file/d/1-vCPz8M1Si4HfFvVaL2u3eT23cEVEQfP/view?usp=sharing) from Google Drive, Copy the extracted **py39** folder into the directory of your conda environment.
 * Download the code repository and extract it to your local disk.
-* Download the dataset [TU_DOOR_DATA.7z](https://drive.google.com/file/d/1-0_lkwfZGaPwFUQ-P5nTvGLtd7eLajIi/view?usp=sharing) from Google Drive, Copy the extracted **TU_DOOR_DATA** folder into the **FrameGraph/graphgym/datasets** folder of the code.
-* To run the training code, open a **CMD** window in the **FrameGraph/graphgym** folder and execute:
+* Download the dataset [TU_DOOR_DATA.7z](https://drive.google.com/file/d/1-0_lkwfZGaPwFUQ-P5nTvGLtd7eLajIi/view?usp=sharing) from Google Drive, Copy the extracted **TU_DOOR_DATA** folder into the **FrameGraph/datasets** folder of the code.
+* To run the training code, open a **CMD** window in the **FrameGraph** folder and execute:
 ```
 conda activate py39
 bash run_single.sh
