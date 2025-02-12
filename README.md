@@ -3,7 +3,7 @@
 ## Introduction
 This repository contains the training code for the door frame example in the paper "FrameGraph: A Scalable Performance Evaluation Method for Frame Structure Designs Using Graph Neural Network." The required environment and dataset can be downloaded from Google Drive.
 <p align="center">
-  <img src="https://github.com/Li-Yongcheng/FrameGraph/blob/main/FrameGraph.png" />
+  <img src="https://github.com/Li-Yongcheng/StructureGraph/blob/main/StructureGraph.png" />
 </p>
 
 ## Have a try!
